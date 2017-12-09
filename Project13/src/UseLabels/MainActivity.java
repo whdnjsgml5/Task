@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 import UseGraphics.SnowObject;
 import UseGraphics.SnowPanel;
 
-@SuppressWarnings("serial")
+@SuppressWarnings({ "serial" })
 public class MainActivity extends JFrame {
 
 	Container ct;

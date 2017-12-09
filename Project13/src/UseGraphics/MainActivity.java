@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 import javax.swing.JFrame;
 
-@SuppressWarnings("serial")
+@SuppressWarnings({ "serial" })
 public class MainActivity extends JFrame {
 
 	Container ct;
